@@ -1,0 +1,148 @@
+{
+  "images": {
+    "title": {
+      "image": "custommainmenu:textures/gui/title.png",
+      "posX": -192,
+      "posY": 30,
+      "width": 384,
+      "height": 40,
+      "alignment": "top_center"
+    }
+  },
+  "buttons": {
+    "singleplayer": {
+      "text": "menu.singleplayer",
+      "posX": -100,
+      "posY": 58,
+      "width": 100,
+      "height": 20,
+      "imageWidth": 480,
+      "imageHeight": 96,
+      "texture": "custommainmenu:textures/gui/button.png",
+      "action": {
+        "type": "openGui",
+        "gui": "singleplayer"
+      }
+    },
+    "Server": {
+      "text": "Server",
+      "posX": 2,
+      "posY": 58,
+      "width": 100,
+      "height": 20,
+      "imageWidth": 480,
+      "imageHeight": 96,
+      "texture": "custommainmenu:textures/gui/button.png",
+      "action": {
+        "type": "connectToServer",
+        "ip": "KettleMC.net"
+      }
+    },
+    "multiplayer": {
+      "text": "menu.multiplayer",
+      "posX": -100,
+      "posY": 83,
+      "width": 100,
+      "height": 20,
+      "imageWidth": 480,
+      "imageHeight": 96,
+      "texture": "custommainmenu:textures/gui/button.png",
+      "action": {
+        "type": "openGui",
+        "gui": "multiplayer"
+      }
+    },
+    "mods": {
+      "text": "Mods (#modsloaded#)",
+      "posX": 2,
+      "posY": 83,
+      "width": 100,
+      "height": 20,
+      "imageWidth": 480,
+      "imageHeight": 96,
+      "texture": "custommainmenu:textures/gui/button.png",
+      "action": {
+        "type": "openGui",
+        "gui": "mods"
+      }
+    },
+    "options": {
+      "text": "menu.options",
+      "posX": -100,
+      "posY": 108,
+      "width": 100,
+      "height": 20,
+      "imageWidth": 480,
+      "imageHeight": 96,
+      "texture": "custommainmenu:textures/gui/button.png",
+      "action": {
+        "type": "openGui",
+        "gui": "options"
+      }
+    },
+    "quit": {
+      "text": "menu.quit",
+      "posX": 2,
+      "posY": 108,
+      "width": 100,
+      "height": 20,
+      "imageWidth": 480,
+      "imageHeight": 96,
+      "texture": "custommainmenu:textures/gui/button.png",
+      "action": {
+        "type": "quit"
+      }
+    },
+    "refresh": {
+      "text": "R",
+      "posX": -154,
+      "posY": 85,
+      "width": 20,
+      "height": 20,
+      "imageWidth": 96,
+      "imageHeight": 96,
+      "texture": "custommainmenu:textures/gui/buttonsmall.png",
+      "action": {
+        "type": "refresh"
+      }
+    },
+    "Discord": {
+      "text": "D",
+      "posX": -154,
+      "posY": 110,
+      "width": 20,
+      "height": 20,
+      "imageWidth": 96,
+      "imageHeight": 96,
+      "texture": "custommainmenu:textures/gui/buttonsmall.png",
+      "action": {
+        "type": "openLink",
+        "link": "https://discord.gg/tUB5GgB"
+      }
+    }
+  },
+  "other": {
+    "welcome-text": {
+      "posX": 80,
+      "posY": 108,
+      "color": -243,
+      "alignment": "top_left",
+      "texts": "LATAL"
+    },
+    "background": {
+      "image": "",
+      "slideshow": {
+        "images": [
+          "custommainmenu:textures/background/background1.png",
+          "custommainmenu:textures/background/background2.png",
+          "custommainmenu:textures/background/background3.png",
+          "custommainmenu:textures/background/background4.png",
+          "custommainmenu:textures/background/background5.png"
+        ],
+        "displayDuration": 100,
+        "fadeDuration": 20,
+        "shuffle": false
+      }
+    }
+  }
+}

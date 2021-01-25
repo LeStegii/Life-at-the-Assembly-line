@@ -1,0 +1,9 @@
+# Client data
+.curseclient
+minecraftinstance.json
+
+# Minecraft folders
+mods/
+resourcepacks/
+saves/
+downloads/
