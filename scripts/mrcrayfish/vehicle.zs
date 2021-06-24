@@ -1,6 +1,8 @@
 // Replace iron with alumium and leather with graphite
 for item in loadedMods["vehicle"].items {
-    recipes.replaceAllOccurences(<minecraft:iron_ingot>, <ore:ingotAluminum>, item);
+	if (!item.name.contains("engine")) {
+		recipes.replaceAllOccurences(<minecraft:iron_ingot>, <ore:ingotAluminum>, item);
+	}
     recipes.replaceAllOccurences(<minecraft:leather>, <ore:ingotGraphite>, item);
 }
 
