@@ -1,3 +1,30 @@
+### 1.4 Pre-Release
+
+**Changelog:**
+  - Updated Base
+  - Updated Animania Extra Animals
+  - Updated Animania Farm
+  - Updated CraftTweaker
+  - Updated ContentTweaker
+  - Updated Industrial Renewal
+  - Updated ModTweaker
+  - Updated MTLib
+  - Updated Pollution of the Realms
+  - Updated Simple Storage Network
+  - Updated UniDict
+  - Updated Unlimited Chisel Works
+
+  - Updated Discord Link in main menu
+  - Updated servers.dat
+  - Updated OreDict entries
+  - Fixed Cooked Bacon recipe (Food Expansion)
+  - Fixed Iron Tier Engine recipes (MrCrayfish's Vehicle Mod)
+  - Changed ArchitectureCraft textures, recipes and names (ArchitectureCraft Mod)
+  - Changed Forcefield Controller recipe (Malisis Doors Mod)
+  - Changed Diamond Chisel, iChisel and Auto Chisel recipes (Chisel Mod)
+  - Added yellorite ore deposits (Large Ore Deposits)
+  - Formatted all scripts
+
 ### 1.3 Pre-Release
 
 **Changelog:**
