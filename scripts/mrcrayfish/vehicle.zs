@@ -9,12 +9,12 @@ for item in loadedMods["vehicle"].items {
 // Traffic Cone
 recipes.remove(<vehicle:traffic_cone>);
 recipes.addShaped("ct_traffic_cone", <vehicle:traffic_cone>, [
-	[null,<ore:dyeOrange>,null],
-	[<ore:dyeWhite>,<ore:ingotGraphite>,<ore:dyeWhite>]
+	[null, <ore:dyeOrange>, null],
+	[<ore:dyeWhite>, <ore:ingotGraphite>, <ore:dyeWhite>]
 ]);
 
 // Panel
 recipes.remove(<vehicle:panel>);
 recipes.addShaped("ct_panel", <vehicle:panel>, [
-	[<ore:plateAluminum>,<ore:ingotGraphite>,<ore:plateAluminum>]
+	[<ore:plateAluminum>, <ore:ingotGraphite>, <ore:plateAluminum>]
 ]);
