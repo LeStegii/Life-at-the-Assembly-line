@@ -1,3 +1,23 @@
+### 1.5 Pre-Release
+
+**Changelog:**
+  - Added Extended Crafting
+  
+  - Disabled some Extended Crafting recipes
+  - Added Creativum Dust, Ingot, Block, Heavy Plate and Gem
+  - Added Creative Recipe for Creative Solar Cell (Industrial Renewal)
+  - Added toolWrench oredict entry
+  - Changed textures and recipes for Wrenches (BASE/Extreme Reactors/Magneticraft/PA)
+  - Changed textures for Extreme Reactors dusts and gems
+  - Changed texture and recipe for Hammer (Immersive Engineering)
+  - Changed texture for Hammer (MrCrayfish's Furniture)
+  - Changed recipe for Computer (MrCrayfish's Furniture)
+  - Changed recipe for Mega Torch, Feral Flare Lantern and Dread Lamp (TorchMaster)
+  - Fixed recipe for Storage Cable (Simple Storage Network)
+  - Added Architects Hammer as Hammer for Magenticraft (ArchitectureCraft)
+  - Hid disabled Extended Crafting recipes
+
+
 ### 1.4 Pre-Release
 
 **Changelog:**
@@ -24,6 +44,7 @@
   - Changed Diamond Chisel, iChisel and Auto Chisel recipes (Chisel Mod)
   - Added yellorite ore deposits (Large Ore Deposits)
   - Formatted all scripts
+
 
 ### 1.3 Pre-Release
 
