@@ -6,3 +6,6 @@ recipes.replaceAllOccurences(<magneticraft:light_plates:2>, <ore:heavyPlateCoppe
 
 // Restriction Pneumatic Tube (replace iron with iron heavy plate)
 recipes.replaceAllOccurences(<minecraft:iron_ingot>, <ore:heavyPlateIron>, <magneticraft:pneumatic_restriction_tube>);
+
+// Add Architects Hammer as Hammer
+mods.magneticraft.CrushingTable.addHammer(<architecturecraft:hammer>, 4, 1, 0);
