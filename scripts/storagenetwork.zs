@@ -6,7 +6,7 @@ for item in loadedMods["storagenetwork"].items {
 
 // Storage Cable
 recipes.remove(<storagenetwork:kabel>);
-recipes.addShaped("ct_kabel", <storagenetwork:kabel>, [
+recipes.addShaped("ct_kabel", <storagenetwork:kabel>*8, [
 	[<ore:minislabStone>,<ore:minislabStone>,<ore:minislabStone>],
 	[<ore:ingotSteel>,<ore:wireSteel>,<ore:ingotSteel>],
 	[<ore:minislabStone>,<ore:minislabStone>,<ore:minislabStone>]
