@@ -38,28 +38,3 @@ recipes.addShaped("ct_dread_lamp",  <torchmaster:dread_lamp>,  [
 	[<ore:obsidian>, <ore:dyeBlack>, <ore:obsidian>]
 ]);
 
-
-recipes.remove(<extendedcrafting:storage:2>);
-recipes.remove(<extendedcrafting:storage:3>);
-recipes.remove(<extendedcrafting:storage:4>);
-recipes.remove(<extendedcrafting:storage:5>);
-recipes.remove(<extendedcrafting:storage:6>);
-recipes.remove(<extendedcrafting:storage:7>);
-
-recipes.remove(<extendedcrafting:frame:*>);
-recipes.remove(<extendedcrafting:lamp:*>);
-recipes.remove(<extendedcrafting:trimmed:*>);
-
-recipes.remove(<extendedcrafting:material:3>);
-recipes.remove(<extendedcrafting:material:12>);
-recipes.remove(<extendedcrafting:material:13>);
-recipes.remove(<extendedcrafting:material:18>);
-recipes.remove(<extendedcrafting:material:19>);
-mods.extendedcrafting.TableCrafting.remove(<extendedcrafting:material:24>);
-recipes.remove(<extendedcrafting:material:25>);
-recipes.remove(<extendedcrafting:material:32>);
-recipes.remove(<extendedcrafting:material:33>);
-recipes.remove(<extendedcrafting:material:36>);
-recipes.remove(<extendedcrafting:material:37>);
-recipes.remove(<extendedcrafting:material:4>);
-recipes.remove(<extendedcrafting:material:37>);
