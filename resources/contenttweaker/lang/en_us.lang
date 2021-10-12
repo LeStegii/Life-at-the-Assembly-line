@@ -1,3 +1,8 @@
 item.contenttweaker.slush.name=Slush
 tile.contenttweaker.slush_block.name=Slush Block
 tile.contenttweaker.slush_brick_block.name=Slush Block Bricks
+item.contenttweaker.creativum_dust.name=§dCreativum Dust
+item.contenttweaker.creativum_ingot.name=§dCreativum Ingot
+item.contenttweaker.creativum_heavy_plate.name=§dCreativum Heavy Plate
+item.contenttweaker.creativum_gem.name=§dCreativum Gem
+tile.contenttweaker.creativum_block.name=§dBlock of Creativum

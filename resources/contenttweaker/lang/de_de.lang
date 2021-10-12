@@ -1,3 +1,8 @@
 item.contenttweaker.slush.name=Schneematsch
 tile.contenttweaker.slush_block.name=Schneematschblock
 tile.contenttweaker.slush_brick_block.name=Schneematschziegel
+item.contenttweaker.creativum_dust.name=§dKreativum Staub
+item.contenttweaker.creativum_ingot.name=§dKreativumbarren
+item.contenttweaker.creativum_heavy_plate.name=§dSchwere Kreativumplatte
+item.contenttweaker.creativum_gem.name=§dKreativum Kristall
+tile.contenttweaker.creativum_block.name=§dKreativumblock
