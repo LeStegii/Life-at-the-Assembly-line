@@ -23,3 +23,11 @@ recipes.replaceAllOccurences(<ore:stickIron>, <ore:wireSteel>, <industrialrenewa
 
 // Ultra HV Wire Coil (replace steel with steel wire)
 recipes.replaceAllOccurences(<ore:ingotSteel>, <ore:wireSteel>, <industrialrenewal:coil_hv>);
+
+// Creative Solar Cell
+recipes.remove(<industrialrenewal:infinity_generator>);
+recipes.addShaped("ct_creative_solar_cell", <industrialrenewal:infinity_generator>, [
+	[<industrialrenewal:solar_panel>, <contenttweaker:creativum_heavy_plate>, <industrialrenewal:solar_panel>],
+	[<contenttweaker:creativum_heavy_plate>, <industrialrenewal:battery_lithium>, <contenttweaker:creativum_heavy_plate>],
+	[<contenttweaker:creativum_block>, <industrialrenewal:solar_panel_frame>, <contenttweaker:creativum_block>]
+]);
