@@ -18,3 +18,7 @@ recipes.remove(<vehicle:panel>);
 recipes.addShaped("ct_panel", <vehicle:panel>, [
 	[<ore:plateAluminum>, <ore:ingotGraphite>, <ore:plateAluminum>]
 ]);
+
+// Wrench
+recipes.remove(<vehicle:wrench>);
+recipes.addShapeless("ct_vehicle_wrench", <vehicle:wrench>, [<ore:toolWrench>, <magneticraft:crafting:4>]);
