@@ -1,3 +1,9 @@
+### 1.5.1 Pre-Release
+
+**Changelog:**
+  - Re-added all biomes (should prevent ocean worlds)
+
+
 ### 1.5 Pre-Release
 
 **Changelog:**
